@@ -167,7 +167,7 @@
         "mustache": "^4.2.0",
         "uuid": "^8.3.2",
         "vscode-languageclient": "^7.0.0",
-        "vscode-uri": "^3.0.2"
+        "vscode-uri": "^3.0.7"
     },
     "extensionDependencies": [
         "ms-vscode.azure-account"
