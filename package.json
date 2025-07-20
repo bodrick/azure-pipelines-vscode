@@ -157,7 +157,7 @@
     "dependencies": {
         "@azure/arm-appservice": "^6.1.0",
         "@azure/arm-resources": "^4.0.0",
-        "@azure/arm-subscriptions": "^3.0.0",
+        "@azure/arm-subscriptions": "^4.0.0",
         "@azure/ms-rest-azure-env": "^2.0.0",
         "@azure/ms-rest-nodeauth": "^3.0.6",
         "@vscode/extension-telemetry": "^0.5.1",
